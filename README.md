@@ -4,7 +4,7 @@
 <br/><br/>
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/remote-architects-club/forest-admin"/> 
-  <img src="https://img.shields.io/github/languages/top/danrocha/forest-admin"/> 
+  <img src="https://img.shields.io/github/languages/top/remote-architects-club/forest-admin"/> 
 </p>
 
 ## Built With
